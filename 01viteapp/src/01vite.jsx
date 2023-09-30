@@ -1,0 +1,7 @@
+
+function Web(){
+    return(
+      <h1>hello</h1>
+    )
+}
+export default Web
