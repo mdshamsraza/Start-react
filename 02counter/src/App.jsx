@@ -23,8 +23,8 @@ const removeValue = ()=>{
 
     <button onClick={Addvalue}>Add value = {Counter}</button>
     <br/>
-    <button onClick={removeValue}
-    >Remove value = {Counter}</button>
+    <br/>
+    <button onClick={removeValue}>Remove value = {Counter}</button>
     </>
   )
 }
