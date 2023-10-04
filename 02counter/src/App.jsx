@@ -9,13 +9,12 @@ const Addvalue = () =>{
   // console.log("added value: ",Math.random())
   // Counter = Counter + 1
   setCounter(Counter + 1)
-
-
 }
+while(Counter==0){
 const removeValue = ()=>{
   setCounter(Counter - 1)
 }
-
+}
   return (
     <>
     <h1>This is react</h1>
